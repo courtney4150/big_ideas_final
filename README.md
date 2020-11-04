@@ -12,7 +12,7 @@ Description from the WPRDC: Educational attainment data are needed for use in as
 * Tax Delinquency in Pittsburgh (https://data.wprdc.org/dataset/city-of-pittsburgh-property-tax-delinquency/resource/ed0d1550-c300-4114-865c-82dc7c23235b?inner_span=True)
 Description from the WPRDC: This dataset contains all property in the City of Pittsburgh that is delinquent on property taxes for the given year.
 
-*Wage or Salary Income in the Past 12 Months for Households (https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/d159c6b3-f70a-439b-bd2b-0cb8735d76d4)
+* Wage or Salary Income in the Past 12 Months for Households (https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/d159c6b3-f70a-439b-bd2b-0cb8735d76d4)
 Description from WPRDC: Wage or salary income includes total money earnings received for work performed as an employee during the past 12 months. It includes wages, salary, Armed Forces pay, commissions, tips, piece-rate payments, and cash bonuses earned before deductions were made for taxes, bonds, pensions, union dues, etc.
 
 
