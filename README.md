@@ -17,3 +17,11 @@ Description from WPRDC: Wage or salary income includes total money earnings rece
 
 Abstract:
 Our group looked at three metrics for determining the best neighborhood in Pittsburgh, PA. The first of these three metrics was higher educational attainment for the population 25 years and over, particularly by percentage of doctoral degrees among residents. The second was lower tax delinquency rates, and the third was higher household income over the last 12 months. We determined that XXXX is the best neighborhood because it ranked the highest among all three categories: XX in educational attainment, XX in tax deliquency, and XX in household income. 
+
+
+Presentation Information: 
+
+* INTRODUCTION: Our project aims to identify the best neighborhood in Pittsburgh.  We came up with this metric based on the available datasets from the WPRDC, prioritizing datasets that were sorted by neighborhood and updated recently. _add some alternatives we considered_
+* THE METRIC: highest educational attainment, lowest tax delinquency rates, and highest household income. The datasets are linked above in the README.
+* THE BEST NEIGHBORHOOD: 
+* CONCLUSION: 
